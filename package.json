@@ -1,0 +1,18 @@
+{
+  "name": "pk-boilerplate",
+  "title": "PK Boilerplate",
+  "version": "1.0.0",
+  "description": "Polder Knowledge Boilerplate Plugin",
+  "author": {
+    "name": "Oscar Weijman",
+    "url": "http://polderknowledge.nl"
+  },
+  "license": "Commercial",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "latest",
+    "grunt-wp-i18n": "latest",
+    "load-grunt-tasks": "latest"
+  }
+}
